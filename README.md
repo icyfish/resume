@@ -18,25 +18,23 @@
 
 ## 技能
 
-- 熟悉HTML、CSS(SCSS)
+- HTML、CSS(SCSS)
 
-- [熟悉JavaScript语言中的闭包，this，作用域，原型链等重要知识点，项目中使用ES6进行开发](https://icyfish.me/tags/JavaScript/)
+- [JavaScript语言中的闭包，this，作用域，原型链等重要知识点，项目中使用ES6进行开发](https://icyfish.me/tags/JavaScript/)
 
-- [了解React及相关工具react-router等的使用](https://icyfish.me/tags/React/)
+- [React + Redux开发](https://icyfish.me/tags/Redux/)
 
-- [了解Redux及其相关工具redux-form, redux-thunk等的使用](https://icyfish.me/tags/Redux/)
+- webpack的使用
 
-- [了解webpack的使用](https://icyfish.me/tags/webpack/)
+- 网络相关的概念
 
-- [了解网络相关基础概念](https://icyfish.me/2016/10/12/internet-basics/)
+- Node的基础运用(包括Express.js)和部分重要特性
 
-- [了解Node的基础运用(包括Express.js)和部分重要特性](https://icyfish.me/tags/Node/)
-
-- 了解Git和GitHub的使用
+- Git和GitHub的使用
 
 - 了解面向对象编程, 函数式编程思想
 
-- 了解DOM和BOM，关注浏览器新特性
+- 关注浏览器新特性, 了解DOM和BOM
 
 - 有良好的编码习惯和模块化思维
 
@@ -67,7 +65,7 @@
 
 ## 关于我
 
-- 热爱编程, 具有强烈的自我驱动力
+- 热爱编程, 具有强烈的自我驱动力, 对学习新技术有极大的热情
 
 - 自学能力较强, 具备独立分析解决问题的能力
 
