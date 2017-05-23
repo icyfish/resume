@@ -10,7 +10,7 @@
 
 - 自学web开发: [我的学习经历](https://icyfish.me/2017/02/16/learning-web-dev-from-scratch/)
 
-- 我的技术博客: [icyfish.me](https://github.com/icyfish/blog)
+- 我的技术博客: [icyfish.me](https://icyfish.me)
 
 - 期望职位: 前端开发工程师
 
