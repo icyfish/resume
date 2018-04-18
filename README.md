@@ -1,6 +1,6 @@
 # 我的个人简历
 
-[网页版](https://resume.icyfish.me) | [PDF版](https://resume.icyfish.me/resume.pdf)
+[网页版](https://icyfish.github.io/resume) | [PDF版](https://icyfish.github.io/resume/resume.pdf)
 
 ## 个人信息
 
@@ -8,9 +8,9 @@
 
 - 学历: 本科 - 英语专业(2012-2016)
 
-- 自学web开发: [我的学习经历](https://icyfish.me/2017/02/16/learning-web-dev-from-scratch/)
+- 自学web开发: [我的学习经历](https://icyfish.github.io/blog/2017/02/16/learning-web-dev-from-scratch/)
 
-- 我的技术博客: [icyfish.me](https://icyfish.me)
+- 我的技术博客: [icyfish.github.io](https://icyfish.github.io/blog)
 
 - 期望职位: 前端开发工程师
 
@@ -20,9 +20,9 @@
 
 - HTML、CSS(SCSS)
 
-- [JavaScript语言中的闭包，this，作用域，原型链等重要知识点，项目中使用ES6进行开发](https://icyfish.me/tags/JavaScript/)
+- [JavaScript语言中的闭包，this，作用域，原型链等重要知识点，项目中使用ES6进行开发](https://icyfish.github.io/blog/tags/JavaScript/)
 
-- [React + Redux开发](https://icyfish.me/tags/Redux/)
+- [React + Redux开发](https://icyfish.github.io/blog/tags/Redux/)
 
 - webpack的使用
 
